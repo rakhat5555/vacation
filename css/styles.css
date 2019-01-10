@@ -1,0 +1,20 @@
+body {
+  background-image: url(../img/bgr.jpeg);
+
+}
+.head-img {
+  float: right;
+
+  height: 25%;
+  width: 25%;
+}
+
+
+.deals, h2 {
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url(../img/flag.png);
+   background-position: center; 
+}
